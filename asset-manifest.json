@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Andromeda_official/static/css/main.468f20de.css",
+    "main.css": "/Andromeda_official/static/css/main.5518ee1d.css",
     "main.js": "/Andromeda_official/static/js/main.2aa37c38.js",
     "static/media/unsplash_zwd435-ewb4888888888.png": "/Andromeda_official/static/media/unsplash_zwd435-ewb4888888888.61ffa9d972d6ccb125c9.png",
     "static/media/testinomial_Background.png": "/Andromeda_official/static/media/testinomial_Background.0acd8bd36a998ff95bb9.png",
@@ -31,11 +31,11 @@
     "static/media/DebadipBandyopadhyay.jpeg": "/Andromeda_official/static/media/DebadipBandyopadhyay.c4c529d549ffb0d89823.jpeg",
     "static/media/KunalShankar.jpeg": "/Andromeda_official/static/media/KunalShankar.d3f5b69f00ac5ef0875c.jpeg",
     "index.html": "/Andromeda_official/index.html",
-    "main.468f20de.css.map": "/Andromeda_official/static/css/main.468f20de.css.map",
+    "main.5518ee1d.css.map": "/Andromeda_official/static/css/main.5518ee1d.css.map",
     "main.2aa37c38.js.map": "/Andromeda_official/static/js/main.2aa37c38.js.map"
   },
   "entrypoints": [
-    "static/css/main.468f20de.css",
+    "static/css/main.5518ee1d.css",
     "static/js/main.2aa37c38.js"
   ]
 }
