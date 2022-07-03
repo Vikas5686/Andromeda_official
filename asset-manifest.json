@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Andromeda_official/static/css/main.bf1bda96.css",
-    "main.js": "/Andromeda_official/static/js/main.c6114d7d.js",
+    "main.css": "/Andromeda_official/static/css/main.4ed680d2.css",
+    "main.js": "/Andromeda_official/static/js/main.78507c16.js",
     "static/media/unsplash_3MAmj1ZKSZADSGP1.png": "/Andromeda_official/static/media/unsplash_3MAmj1ZKSZADSGP1.c9cfdd6e6f237a985905.png",
     "static/media/unsplash_zwd435-ewb4888888888.png": "/Andromeda_official/static/media/unsplash_zwd435-ewb4888888888.61ffa9d972d6ccb125c9.png",
     "static/media/unsplash_WxM465oM4j4_PV-1.png": "/Andromeda_official/static/media/unsplash_WxM465oM4j4_PV-1.e166482a900c03b36b0d.png",
@@ -45,11 +45,11 @@
     "static/media/DebadipBandyopadhyay.jpeg": "/Andromeda_official/static/media/DebadipBandyopadhyay.c4c529d549ffb0d89823.jpeg",
     "static/media/KunalShankar.jpeg": "/Andromeda_official/static/media/KunalShankar.d3f5b69f00ac5ef0875c.jpeg",
     "index.html": "/Andromeda_official/index.html",
-    "main.bf1bda96.css.map": "/Andromeda_official/static/css/main.bf1bda96.css.map",
-    "main.c6114d7d.js.map": "/Andromeda_official/static/js/main.c6114d7d.js.map"
+    "main.4ed680d2.css.map": "/Andromeda_official/static/css/main.4ed680d2.css.map",
+    "main.78507c16.js.map": "/Andromeda_official/static/js/main.78507c16.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf1bda96.css",
-    "static/js/main.c6114d7d.js"
+    "static/css/main.4ed680d2.css",
+    "static/js/main.78507c16.js"
   ]
 }
